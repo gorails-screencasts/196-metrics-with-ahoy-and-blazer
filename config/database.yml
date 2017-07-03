@@ -1,0 +1,6 @@
+development:
+  host: 127.0.0.1
+  username: chris
+  adapter: postgresql
+  database: metrics_dev
+  encoding: utf8
